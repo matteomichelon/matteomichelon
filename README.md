@@ -1,4 +1,12 @@
-### Hi there 👋
+# Benvenuto nel mio GitHub!
+
+## Chi sono
+
+***Mi presento mi chiamo Matteo Michelon e sono un ragazzo poco più che trentenne appassionato di tecnologia e di programmazione; qui potrai trovare i progetti che ho realizzato o i progetti a cui sto mettendo mano, se ti interessa conoscermi meglio scrivimi oppure seguimi; se ti interessa qui trovi il mio profilo [linkedin](https://www.linkedin.com/in/matteo-michelon-290244216/)***
+
+***Grazie per il tuo tempo***
+
+***Buona programmazione!***
 
 <!--
 **matteomichelon/matteomichelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
